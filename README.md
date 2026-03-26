@@ -62,16 +62,16 @@ Many-to-one connections from `ball_by_ball_data` to the three dimension tables o
 ## IPL Season-wise Insights
 
 ### 📈 Season 2008
-![IPL 2008](ipl_2008.png)
+![IPL 2008](images/ipl_2008.png)
 
 ### Season 2016
-![IPL 2016](ipl_2016.png)
+![IPL 2016](images/ipl_2016.png)
 
 ### Season 2024
-![IPL 2024](ipl_2024.png)
+![IPL 2024](images/ipl_2024.png)
 
 ### Season 2025
-![IPL 2025](ipl_2025.png)
+![IPL 2025](images/ipl_2025.png)
 
 
 ### 💡 Key Business Insights Delivered
