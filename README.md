@@ -59,9 +59,9 @@ Many-to-one connections from `ball_by_ball_data` to the three dimension tables o
 7. **Dashboard Design**  
    Built a single-page interactive dashboard with slicers, cards, tables, images, and conditional formatting.
 
-## IPL Season-wise Insights
+## 📈 IPL Season-wise Insights
 
-### 📈 Season 2008
+### Season 2008
 ![IPL 2008](images/ipl_2008.png)
 
 ### Season 2016
