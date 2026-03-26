@@ -59,6 +59,21 @@ Many-to-one connections from `ball_by_ball_data` to the three dimension tables o
 7. **Dashboard Design**  
    Built a single-page interactive dashboard with slicers, cards, tables, images, and conditional formatting.
 
+## IPL Season-wise Insights
+
+### 📈 Season 2008
+![IPL 2008](ipl_2008.png)
+
+### Season 2016
+![IPL 2016](ipl_2016.png)
+
+### Season 2024
+![IPL 2024](ipl_2024.png)
+
+### Season 2025
+![IPL 2025](ipl_2025.png)
+
+
 ### 💡 Key Business Insights Delivered
 
 (As displayed in the current dashboard – focused on 2025 season + historical aggregates)
@@ -74,7 +89,7 @@ Many-to-one connections from `ball_by_ball_data` to the three dimension tables o
   - Gujarat Titans – 18 points  
   - Mumbai Indians – 16 points  
   - Delhi Capitals – 15 points  
-- **Overall Historical Aggregates (2008–2025)**:  
+- **Overall Aggregates (2025)**:  
   - Total 6's: 1,296  
   - Total 4's: 2,251  
   - Total Matches: 74  
